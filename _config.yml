@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: "NanoVoice: Efficient Speaker-Adaptive Text-to-Speech for Multiple Speakers"
+github:
+  is_project_page: false
