@@ -1,4 +1,4 @@
-# NanoVoice: Efficient Speaker-Adaptive Text-to-Speech for Multiple Speakers (Submitted to ICASSP 2025)
+# NanoVoice: Efficient Speaker-Adaptive Text-to-Speech for Multiple Speakers (ICASSP 2025, Oral Presentation)
 
 #### This page and the demos below are intended solely for research demonstration.
 
